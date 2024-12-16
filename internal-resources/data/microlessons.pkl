@@ -9,23 +9,33 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+settingUpATestingEnvironmentInReact = new Template.Microlesson {
+  friendlyName = "Setting Up a Testing Environment in React"
+  dirName = "setting-up-a-test-environment-in-react"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+componentTesting = new Template.Microlesson {
+  friendlyName = "Component Testing"
+  dirName = "component-testing"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+snapshotTesting = new Template.Microlesson {
+  friendlyName = "Snapshot Testing"
+  dirName = "snapshot-testing"
   type = "Content"
   videoUrl = ""
 }
+
+testingAdvancedComponents = new Template.Microlesson {
+  friendlyName = "Testing Advanced Components"
+  dirName = "testing-advanced-components"
+  type = "Content"
+  videoUrl = ""
+}
+
+
+

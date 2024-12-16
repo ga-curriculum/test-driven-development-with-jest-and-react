@@ -1,21 +1,22 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Test Driven Development with Jest and React</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, students will discover how to build a robust testing strategy for React applications using Jest and related tools. They’ll start with practical approaches like component-level tests and snapshot testing, then move on to more advanced techniques for components that interact with external APIs. The goal is to highlight how React’s dynamic rendering and data flows add complexity beyond just basic unit testing, empowering students to keep their applications stable and reliable no matter how the UI changes.
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| Lesson                                                                                          | Est. Delivery Time | Skills                                                                                     |
+| ----------------------------------------------------------------------------------------------- | :----------------: | ------------------------------------------------------------------------------------------ |
+| [Setup](./setup/README.md)                                                                      |       10 min       | Set up the development environment.                                                        |
+| [Setting Up a Testing Environment in React](./setting-up-a-test-environment-in-react/README.md) |       15 min       | Set up a complete testing environment for a React application using Jest and related tools |
+| [Component Testing](./component-testing/README.md)                                              |       20min        | Testing component rendering, debugging, and mocking functions for unit testing             |
+| [Snapshot Testing](./snapshot-testing/README.md)                                                |       20min        | Evaluate component rendering using snapshot testing                                        |
+| [Testing Advanced Components](./testing-advanced-components/README.md)                          |       15 min       | Write tests for components that interact with APIs, using mock data                        |
+| **Total content**                                                                               |       80 min       |                                                                                            |
 
 ## References
 
@@ -25,32 +26,16 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Test Driven Development with Jest
 
 ### Starter code
 
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-jest-testing-application)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/test-driven-development-with-jest-and-react/canvas-landing-pages/mea.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/test-driven-development-with-jest-and-react/canvas-landing-pages/fallback.html)
 
 ### Resources
 
