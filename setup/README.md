@@ -9,7 +9,7 @@ In this lesson, we’ll practice writing tests for a prebuilt React application 
 
 We’ve provided a starter repository for you to use.  
 
-[**Simple Node.js React App:**](https://git.generalassemb.ly/modular-curriculum-all-courses/simple-node-js-react-npm-app) 
+[**Simple Node.js React App**](https://git.generalassemb.ly/modular-curriculum-all-courses/simple-node-js-react-npm-app) 
 
 
 ### 1. Fork and Clone  
