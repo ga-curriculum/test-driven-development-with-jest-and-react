@@ -34,8 +34,8 @@ In this module, students will discover how to build a robust testing strategy fo
 
 ### Course landing pages
 
-- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/test-driven-development-with-jest-and-react/canvas-landing-pages/mea.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/test-driven-development-with-jest-and-react/canvas-landing-pages/fallback.html)
+- [MEA - Modern Engineering](https://ga-curriculum.github.io/test-driven-development-with-jest-and-react/canvas-landing-pages/mea.html)
+- [Fallback](https://ga-curriculum.github.io/test-driven-development-with-jest-and-react/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -47,4 +47,4 @@ In this module, students will discover how to build a robust testing strategy fo
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
