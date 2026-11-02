@@ -30,7 +30,7 @@ In this module, students will discover how to build a robust testing strategy fo
 
 ### Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-jest-testing-application)
+🟢 [Starter code](https://github.com/ga-curriculum/react-jest-testing-application)
 
 ### Course landing pages
 
