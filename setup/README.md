@@ -9,7 +9,7 @@ In this lesson, we’ll practice writing tests for a prebuilt React application 
 
 We’ve provided a starter repository for you to use.  
 
-[**React Jest Testing Applicaiton**](https://git.generalassemb.ly/modular-curriculum-all-courses/react-jest-testing-application) 
+[**React Jest Testing Applicaiton**](https://github.com/ga-curriculum/react-jest-testing-application) 
 
 
 ### 1. Fork and Clone  
